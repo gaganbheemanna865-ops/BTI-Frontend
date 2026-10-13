@@ -1,0 +1,6 @@
+{
+  "name": "BIT Restaurant Operations Console",
+  "description": "Enterprise multi-tenant restaurant POS & MIS platform for chain operations, Central Kitchen management, outlet financial reconciliation, and workforce operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
